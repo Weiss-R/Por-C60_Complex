@@ -3,3 +3,5 @@ This repository contains the raw data of the (TD-)DFT calculations on the ZnPD m
 
 ## Data in the Repository
 ---
+### [geoms](geoms/) - Optimized Geometries
+XYZ files of the optimized ground and transition states with coordinates given in Angström.
