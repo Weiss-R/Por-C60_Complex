@@ -13,3 +13,4 @@ XYZ files of the optimized ground (GS) and transition states (TS) with coordinat
   - **Transition States** - computational details (Gaussian 16W)
     ```text
     CAM-B3LYP def2SVP OPT=(TS,CalcFC) freq SCF=(Tight) Integral=(Grid=Superfinegrid) NoSymm SCRF(Solvent=Anisole) EmpiricalDispersion=GD3BJ
+---
