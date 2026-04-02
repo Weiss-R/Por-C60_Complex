@@ -1,5 +1,5 @@
 # Por-C60_complex (TD-)DFT Results
-This repository contains the raw data of the (TD-)DFT calculations on the **ZnPD** monomer, the homodimers **ZnP-ZnP** and **C60-C60**, as well as the heterodimers **ZnP-HC60** and **ZnPH-C60**. The data are structured after method and property as shown below.
+This repository contains the raw data of the (TD-)DFT calculations on the **ZnPD** monomer, the homodimers **ZnP-ZnP** and **C<sub>60<sub/>-C<sub>60<sub/>**, as well as the heterodimers **ZnP-HC<sub>60<sub/>**, **ZnPH-C<sub>60<sub/>** and **ZnPDH-C<sub>60<sub/>**. The data are structured after method and property as shown below.
 
 ## Data in the Repository
 ---
@@ -14,3 +14,5 @@ XYZ files of the optimized ground (GS) and transition states (TS) with coordinat
     ```text
     CAM-B3LYP def2SVP OPT=(TS,CalcFC) freq SCF=(Tight) Integral=(Grid=Superfinegrid) NoSymm SCRF(Solvent=Anisole) EmpiricalDispersion=GD3BJ
 ---
+### [TD](TD/) - TD-DFT Results
+Contains excited-state absorption properties of different electronic transitions for **S<sub>0<sub/> → S<sub>n<sub/>** of **ZnPD** and **ZnPDH-C<sub>60<sub/>**.
