@@ -19,7 +19,7 @@ Contains excited-state absorption properties of different electronic transitions
     - Computational Details (Gaussian 16W)
       ```text
       CAM-B3LYP def2TZVP TD(NStates=50) SCF=(Tight) Integral=(Grid=Superfinegrid) NoSymm SCRF(Solvent=Anisole) EmpiricalDispersion=GD3BJ
-</> markdown
+
 **File Structure:**
 **1st column**: excited state
 **2nd column**: vertical excitation energies (in eV)
